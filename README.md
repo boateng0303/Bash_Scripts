@@ -1,3 +1,5 @@
 # Bash scripts to automate tasks
 
-# if condition example to check the classification of BMI and associated health risks
+# If the condition example to check the classification of BMI and associated health risks
+
+#Back up script to back a file
